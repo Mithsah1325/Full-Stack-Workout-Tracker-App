@@ -15,7 +15,6 @@ The Workout Tracker App is a simple yet powerful tool designed to help users man
 - **Frontend:** React.js, React Router DOM
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (with Mongoose ODM)
-- **Deployment:** Heroku (for hosting the app)
 
 ## Getting Started
 
